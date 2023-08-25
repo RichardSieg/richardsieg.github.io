@@ -10,7 +10,7 @@ subtitle: Machine Learning Engineer & NLP Expert in Cologne
 
 👨‍🏫 I love teaching! Currently, I supervise Data Science seminars at the <a href="https://www.th-koeln.de/" target="_blank">Technische Hochschule Köln</a>.
 
-🪩 Outside of work, I am DJing at clubs, bars, and weddings and I love to play music. I am a passionate SV Werder Bremen fan and love to play RPG video games.
+🪩 Outside of work, I am a DJ at clubs, bars, and weddings and I enjoy anything that is music related. I am a passionate SV Werder Bremen fan and love to play RPG video games.
 
 ## CV
 
