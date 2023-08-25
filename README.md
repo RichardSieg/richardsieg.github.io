@@ -1,10 +1,12 @@
 # TODO
 
-- [ ] colors
+- [x] colors
+- [x] colors pagination buttons
 - [ ] favicon
-- [ ] blog stucture
+- [x] blog stucture
 - [ ] teaching
 - [ ] publications
 - [ ] about page
-- [ ] resources
+- [ ] resources (newsletters, events, Spotify playlists)
 - [ ] seo
+- [ ] index rückgängig machen
