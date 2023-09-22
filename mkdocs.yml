@@ -1,0 +1,18 @@
+site_name: Richard Sieg Personal Blog
+site_author: Richard Sieg <richard.sieg@gmail.com>
+site_url: http://richardsieg.github.io
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+  palette:
+    primary: custom
+plugins:
+  - search
+  - blog
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - "Welcome": "index.md"
