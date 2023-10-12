@@ -2,7 +2,7 @@
 
 - [x] colors
 - [x] colors pagination buttons
-- [ ] favicon
+- [x] favicon
 - [x] blog stucture
 - [ ] teaching
 - [ ] publications

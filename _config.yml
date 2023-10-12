@@ -24,8 +24,8 @@ author: Dr. Richard Sieg
 
 navbar-links:
   Home: "index"
+  Resources: "resources"
   Blog: "blog"
-  # Resources: "resources"
   # Talks: "talks"
   # Teaching: "teaching"
 
