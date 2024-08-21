@@ -24,10 +24,11 @@ author: Dr. Richard Sieg
 
 navbar-links:
   Home: "index"
+  CV: "cv"
+  Teaching: "teaching"
   Resources: "resources"
-  Blog: "blog"
+  # Blog: "blog"
   # Talks: "talks"
-  # Teaching: "teaching"
 
 ################
 # --- Logo --- #
@@ -71,7 +72,7 @@ social-network-links:
   #  telegram: yourname
   #  calendly: yourname
   #  mastodon: instance.url/@username
-  #  ORCID: your ORCID ID
+  ORCID: "0009-0007-6616-893X"
   google-scholar: "citations?user=vC6h820AAAAJ"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
