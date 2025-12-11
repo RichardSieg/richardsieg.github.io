@@ -5,7 +5,14 @@ title: CV
 
 ## Professional Experience
 
-**05/2019 – Present**  
+**12/2025 – Present**
+
+**Professor for Natural Language Processing and Large Language Models, Technical University of Cologne**
+
+- **Research Focus:** Extraction of structured data from documents and text simplification.
+- **Teaching:** Courses on NLP, LLMs, and related topics in Data Science.
+
+**05/2019 – 11/2025**
 **Machine Learning Engineer & NLP Expert, how.fm, Cologne**
 
 - **Instructional Design Assistant (IDA):** Process using multiple LLM calls to create high-quality learning courses from customer documents.

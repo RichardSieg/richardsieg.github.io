@@ -1,0 +1,18 @@
+/* Custom styles for smaller title and subtitle */
+.intro-header .page-heading h1 {
+  font-size: 50px !important;
+}
+
+.intro-header .page-heading .page-subheading {
+  font-size: 20px !important;
+}
+
+@media (max-width: 768px) {
+  .intro-header .page-heading h1 {
+    font-size: 36px !important;
+  }
+
+  .intro-header .page-heading .page-subheading {
+    font-size: 16px !important;
+  }
+}
